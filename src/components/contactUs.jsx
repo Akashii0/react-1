@@ -1,5 +1,5 @@
 import { useState } from "react";
-import illustration from "../assets/illustration3.png";
+import illustration from "../assets/Illustration3.png";
 
 function contactUs(params) {
   const [selected, setSelected] = useState("say-hi"); // default selected
