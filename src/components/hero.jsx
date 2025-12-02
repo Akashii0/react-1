@@ -1,4 +1,4 @@
-import illustration from "../assets/illustration1.png";
+import illustration from "../assets/Illustration1.png";
 import client1 from "../assets/amazon.png";
 import client2 from "../assets/dribble.png";
 import client3 from "../assets/hubspot.png";
