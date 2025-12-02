@@ -1,4 +1,4 @@
-import illustration from "../assets/illustration2.png";
+import illustration from "../assets/Illustration2.png";
 
 function proposal() {
   return (
